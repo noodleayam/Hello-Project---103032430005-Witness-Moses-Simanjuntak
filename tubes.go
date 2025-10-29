@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+// ini comment
+
+// please ini gua cuma mau tambah comment doang
+
 type DataSampah struct {
 	ID      int
 	Jenis   string
